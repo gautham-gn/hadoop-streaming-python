@@ -4,7 +4,7 @@ The task is on running a MapReduce program using Python in Hadoop Cluster. Follo
 
 1. Login to Hadoop Cluster using your credentials.
 2. Run Command  
-``git clone https://github.uc.edu/gondinm/hadoop-streaming.git``lone    
+``git clone https://github.uc.edu/gondinm/hadoop-streaming.git``    
 3. The above commands creates a directory in file system.  
 4. Go inside the directory by using change directory.  
 ``cd hadoop-streaming``  
